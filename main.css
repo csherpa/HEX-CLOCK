@@ -1,0 +1,12 @@
+body{
+    background-color: white;    
+    margin-top: 250px;
+    text-align: center;
+}
+
+#hexTime {
+    font-family: 'Lato';
+    font-weight: 800;
+    font-size :100px;
+    color: white;
+}
